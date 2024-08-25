@@ -1,3 +1,15 @@
+# Rhea Rajendra's First CS193 Homework
+- I like how we are learning CS tools & practices that will be helpful in the real-world when applying for jobs.
+- I like how the TA's explain things in an easy way.
+- I like how the assignments and quizzes are not too difficult and instructions are clear.
+- I like learning more about github since I never used it before.
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
